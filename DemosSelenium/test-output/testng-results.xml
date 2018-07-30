@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50269" started-at="2018-07-23T07:11:50Z" finished-at="2018-07-23T07:12:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50269" started-at="2018-07-23T07:11:50Z" finished-at="2018-07-23T07:12:40Z">
+      <class name="com.accenture.tests.Demo04_TakingScreenshots">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.accenture.tests.Demo04_TakingScreenshots@8bd1b6a]" name="beforeTest" is-config="true" duration-ms="36141" started-at="2018-07-23T12:41:50Z" finished-at="2018-07-23T12:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="movetoElement()[pri:0, instance:com.accenture.tests.Demo04_TakingScreenshots@8bd1b6a]" name="movetoElement" duration-ms="14081" started-at="2018-07-23T12:42:26Z" finished-at="2018-07-23T12:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- movetoElement -->
+      </class> <!-- com.accenture.tests.Demo04_TakingScreenshots -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
